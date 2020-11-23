@@ -1,0 +1,27 @@
+.st-pr-img {
+    width: 100px;
+    height: 100px;
+}
+
+.statistic {
+    display: flex;
+}
+
+.diagram-layout {
+    width: 50%;
+}
+
+.statistic-table {
+    width: 50%;
+}
+.statistic-product-title,
+.statistic-type-title {
+    /* margin-top: 100px; */
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 5px;
+}
+.statistic-type-title {
+    margin-top: 100px;
+}
